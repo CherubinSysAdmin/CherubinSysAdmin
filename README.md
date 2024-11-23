@@ -15,8 +15,7 @@
 ### Développement & Outils  
 - 🌐 **Front-End** : HTML5, CSS3, JavaScript  
 - ⚙️ **Outils** : Git, Visual Studio Code, Figma  
-- 🚀 **Langages** : Python, Bash  
-- 🔧 **Logiciels de Collaboration** : Slack, Trello  
+- 🚀 **Langages** : Python, Bash
 
 ---
 
@@ -90,7 +89,7 @@
 
 ## 🌍 Me Contacter  
 📧 **Email** : [cherubin.tshienda@gmail.com](mailto:tshcherubin@gmail.com)  
-🔗 **LinkedIn** : [linkedin.com/in/tshienda-cherubin](https://www.linkedin.com/in/ch%C3%A9rubin-tshienda-649289285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 **LinkedIn** : [linkedin.com/in/tshienda-cherubin](https://www.linkedin.com/in/ch%C3%A9rubin-tshienda-649289285utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 💼 **Portfolio** : [Mon Portfolio](https://tCherubin.netlify.app)  
 📱 **WhatsApp** : [Rejoignez-moi](https://wa.me/message/RT76D2BYWGDH1)
 
