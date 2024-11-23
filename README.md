@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis **Tshienda Chérubin** !  
 
-💻 **Futur Administrateur Systèmes & Développeur Web**  
+💻 **Administrateur Systèmes & Développeur Web Front End**  
 🎓 Étudiant en **Administration Systèmes et Développement Web**.  
 🌟 Passionné par la programmation, les réseaux et la création d’applications innovantes.  
 
