@@ -1,24 +1,66 @@
-# 👋 Bonjour, je suis **Tshienda Chérubin** !  
+# 👋 Bienvenue sur mon GitHub, je suis **Tshienda Chérubin** !  
 
-💻 **Administrateur Systèmes & Développeur Web Front End**  
-🎓 Étudiant en **Administration Systèmes et Développement Web**.  
-🌟 Passionné par la programmation, les réseaux et la création d’applications innovantes.  
+💻 **Administrateur Systèmes et Développeur Web Front-End**  
+🌟 Passionné par les réseaux informatiques, l’innovation technologique et la conception de solutions efficaces.  
 
 ---
 
-## 🔧 Stack Technique
-- 🌐 Frontend : **HTML**, **CSS**, **JavaScript**  
-- ⚙️ Backend : **Python**, **Node.js**  
-- 🛠️ Outils : **Git**, **Zabbix**, **Docker**, **VirtualBox**  
-- 🖥️ Systèmes : **Linux**, **Windows Server**  
+## 🔧 Compétences Techniques  
+### Réseaux & Systèmes  
+- 🖥️ **Supervision Réseau** : Zabbix, Nagios  
+- 📡 **Virtualisation** : VirtualBox, VMware  
+- 📁 **Serveurs** : Windows Server, Linux (Ubuntu, Debian)  
+- 🌐 **Protocole Réseaux** : TCP/IP, DNS, DHCP, VLANs, VoIP  
+
+### Développement & Outils  
+- 🌐 **Front-End** : HTML5, CSS3, JavaScript  
+- ⚙️ **Outils** : Git, Visual Studio Code, Figma  
+- 🚀 **Langages** : Python, Bash  
+- 🔧 **Logiciels de Collaboration** : Slack, Trello  
+
+---
+
+## 📜 Certifications  
+### 🔒 **Cyber Sécurité** *(Cisco Networking Academy)*  
+![Cyber Sécurité](https://via.placeholder.com/250x150)  
+- **Compétences acquises** : Vulnérabilités réseau, bonnes pratiques en cybersécurité, détection des menaces.  
+
+### 🌐 **Équipements Réseaux et Configuration de Base** *(Cisco Networking Academy)*  
+![Équipements Réseaux](https://via.placeholder.com/250x150)  
+- **Compétences acquises** : Sous-réseaux IPv4, DHCP, Cisco IOS, conception de réseau hiérarchique.  
+
+### 🐍 **Python Essentiel 1 et 2** *(Cisco Networking Academy)*  
+![Python](https://via.placeholder.com/250x150)  
+- **Compétences acquises (Niveau 1)** : Programmation procédurale, pensée algorithmique, développement et débogage de scripts.  
+- **Compétences acquises (Niveau 2)** : Programmation orientée objet, modules, polymorphisme, gestion d’exceptions.  
+
+### 🌐 **Créer votre site web avec HTML5 et CSS3** *(OpenClassrooms)*  
+![HTML5 et CSS3](https://via.placeholder.com/250x150)  
+- **Compétences acquises** : Maîtrise des bases de HTML5, CSS3, mise en page avancée.  
+
+### 🖧 **Concevoir un réseau TCP/IP** *(OpenClassrooms)*  
+![Réseau TCP/IP](https://via.placeholder.com/250x150)  
+- **Compétences acquises** : Configurer et optimiser un réseau, architecture réseau physique.  
+
+---
+
+## 📚 Projets en Cours  
+### 🔌 **Application de communication WebSocket**  
+- Conception d’une application permettant une communication en temps réel entre utilisateurs sur réseau local ou distant.  
+- **Fonctionnalités clés** : Messagerie individuelle et de groupe, partage de fichiers, interface responsive et attrayante.  
+
+### 🌐 **Création d’un site web pour une agence digitale**  
+- Développement d’un site moderne pour **Webgorix**, une agence spécialisée dans les services web.  
+- Intégration des sections clés : portfolio, contact, et présentation des services.  
 
 ---
 
 ## 🌍 Me Contacter  
-📧 **Email** : [cherubin.tshienda@example.com](mailto:cherubin.tshienda@example.com)  
+📧 **Email** : [cherubin.tshienda@gmail.com](mailto:cherubin.tshienda@gmail.com)  
 🔗 **LinkedIn** : [linkedin.com/in/tshienda-cherubin](https://linkedin.com/in/tshienda-cherubin)  
 🐦 **Twitter** : [@TshiendaC](https://twitter.com/TshiendaC)  
 💼 **Portfolio** : [Mon Portfolio](https://tshienda-portfolio.com)  
+📱 **WhatsApp** : [Rejoignez-moi](https://wa.me/243970000000)
 
 ---
 
@@ -28,18 +70,12 @@
 
 ---
 
-## 🌱 Projets en Cours  
-- 💡 Développement d’une **application de communication** avec WebSocket.  
-- 🚀 Création d’un blog sur l’**administration systèmes et les technologies web**.  
-- 🔭 Exploration de concepts avancés en **réseaux** et **cybersécurité**.
-
----
-
 ## ✨ Fun Facts  
-- 🎮 J’adore **jouer au ping-pong** quand je ne code pas.  
-- 🌟 Je crois au pouvoir de l’**open source** pour connecter les gens.
+- ⚽ **Football** : Grand amateur de football et joueur passionné.  
+- 🎮 **Gaming** : Fan des jeux vidéo sur PS.  
+- 📖 **Lecture & Écriture** : Inspiré par la littérature et l’écriture pour explorer de nouvelles idées.  
 
 ---
 
 ## 🌟 Collaborons Ensemble  
-Je suis ouvert à des **collaborations** sur des projets passionnants ! N’hésitez pas à [me contacter](mailto:cherubin.tshienda@example.com) ou à vous connecter via mes réseaux sociaux. Créons quelque chose d’incroyable ensemble ! 🚀
+Je suis disponible pour des collaborations sur des projets innovants ou des missions professionnelles. Contactez-moi via [email](mailto:cherubin.tshienda@gmail.com) ou connectez-vous à mes réseaux sociaux. 🚀
