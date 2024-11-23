@@ -21,26 +21,59 @@
 ---
 
 ## 📜 Certifications  
-### 🔒 **Cyber Sécurité** *(Cisco Networking Academy)*  
-![Cyber Sécurité](https://via.placeholder.com/250x150)  
-- **Compétences acquises** : Vulnérabilités réseau, bonnes pratiques en cybersécurité, détection des menaces.  
+### 1. 🔒 **Introduction à la CyberSécurité**  
+![Cyber Sécurité](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/cyberS.jpg)  
+*Compétences acquises : Vulnérabilités du réseau, bonnes pratiques en cybersécurité, confidentialité des données, détection des menaces*  
+*Certification obtenue via Cisco Networking Academy.*
 
-### 🌐 **Équipements Réseaux et Configuration de Base** *(Cisco Networking Academy)*  
-![Équipements Réseaux](https://via.placeholder.com/250x150)  
-- **Compétences acquises** : Sous-réseaux IPv4, DHCP, Cisco IOS, conception de réseau hiérarchique.  
+---
 
-### 🐍 **Python Essentiel 1 et 2** *(Cisco Networking Academy)*  
-![Python](https://via.placeholder.com/250x150)  
-- **Compétences acquises (Niveau 1)** : Programmation procédurale, pensée algorithmique, développement et débogage de scripts.  
-- **Compétences acquises (Niveau 2)** : Programmation orientée objet, modules, polymorphisme, gestion d’exceptions.  
+### 2. 🌐 **Équipements réseaux et configuration de base**  
+![Équipements Réseaux](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/EquipRx.jpg)  
+*Compétences acquises : ARP, Cisco IOS, sous-réseau IPv4, DHCP, périphériques Cisco, DNS, systèmes binaires, protocoles de couche réseau.*  
+*Certification obtenue via Cisco Networking Academy.*
 
-### 🌐 **Créer votre site web avec HTML5 et CSS3** *(OpenClassrooms)*  
-![HTML5 et CSS3](https://via.placeholder.com/250x150)  
-- **Compétences acquises** : Maîtrise des bases de HTML5, CSS3, mise en page avancée.  
+---
 
-### 🖧 **Concevoir un réseau TCP/IP** *(OpenClassrooms)*  
-![Réseau TCP/IP](https://via.placeholder.com/250x150)  
-- **Compétences acquises** : Configurer et optimiser un réseau, architecture réseau physique.  
+### 3. 🐍 **Python Essentiel 1**  
+![Python Essentiel 1](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/pythonE1.jpg)  
+*Compétences acquises : Programmation procédurale, pensée algorithmique, développement et débogage de scripts Python.*  
+*Certification obtenue via Cisco Networking Academy.*
+
+---
+
+### 4. 🐍 **Python Essentiel 2**  
+![Python Essentiel 2](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/pythonE2.jpg)  
+*Compétences acquises : Programmation orientée objet, modules, exceptions, héritage, polymorphisme, méthodes.*  
+*Certification obtenue via Cisco Networking Academy.*
+
+---
+
+### 5. 🌍 **Créer votre site web avec HTML5 et CSS3**  
+![HTML5 et CSS3](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/html-css.jpg)  
+*Compétences acquises : Maîtriser les bases de HTML5, mise en forme avec CSS3, agencement des pages web.*  
+*Certification obtenue via OpenClassroom.*
+
+---
+
+### 6. 🖧 **Concevoir votre réseau TCP/IP**  
+![TCP/IP](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/tcp-ip.jpg)  
+*Compétences acquises : Création de l'architecture physique du réseau, optimisation des services réseaux.*  
+*Certification obtenue via OpenClassroom.*
+
+---
+
+### 7. ⚙️ **Introduction à l'écriture de scripts dans PowerShell**  
+![PowerShell](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/script.jpg)  
+*Compétences acquises : Écriture et automatisation de scripts sous PowerShell pour la gestion des systèmes.*  
+*Certification obtenue via OpenClassroom.*
+
+---
+
+### 8. 🖥️ **Virtualisez vos architectures et vos environnements de travail**  
+![Virtualisation](https://raw.githubusercontent.com/CherubinSysAdmin/certifications-images/main/vm.jpg)  
+*Compétences acquises : Choix de l'outil de virtualisation, mise en place d'environnements de test avec VirtualBox.*  
+*Certification obtenue via OpenClassroom.*
 
 ---
 
