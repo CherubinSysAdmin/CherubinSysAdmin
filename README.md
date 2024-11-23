@@ -110,4 +110,4 @@
 ---
 
 ## 🌟 Collaborons Ensemble  
-Je suis disponible pour des collaborations sur des projets innovants ou des missions professionnelles. Contactez-moi via [email](mailto:cherubin.tshienda@gmail.com) ou connectez-vous à mes réseaux sociaux. 🚀
+Je suis disponible pour des collaborations sur des projets innovants ou des missions professionnelles. Contactez-moi via [email](mailto:tshcherubin@gmail.com) ou connectez-vous à mes réseaux sociaux. 🚀
